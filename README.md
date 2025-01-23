@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffery-asante
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
